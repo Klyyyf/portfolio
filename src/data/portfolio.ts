@@ -5,7 +5,7 @@ export const personal = {
   role: "Desenvolvedor Full Stack",
   description:
     "Desenvolvedor entusiasta por tecnologia, com experiência em desenvolvimento de aplicações web e integração de APIs REST. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.",
-  avatar: "/avatar.jpg",
+  avatar: "avatar.jpg",
   resumeUrl: "#",
 }
 
