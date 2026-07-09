@@ -93,7 +93,7 @@ export const education: Education[] = [
   {
     course: "Bacharelado em Tecnologia da Informação",
     institution: "Universidade Federal do Rio Grande do Norte (UFRN)",
-    year: "2022 — 2026",
+    year: "2022 — presente",
   },
 ]
 
